@@ -1,0 +1,28 @@
+{
+  "version": "2020.1",
+  "applications": [],
+  "platforms": [
+    {
+      "name": "top"
+    }
+  ],
+  "systems": [
+    {
+      "name": "audio_system",
+      "platform": "D:/Xilinx/final_final/workspace/top/export/top/top.xpfm",
+      "sysConfig": "top",
+      "applications": [
+        {
+          "name": "audio",
+          "platform": "D:/Xilinx/final_final/workspace/top/export/top/top.xpfm",
+          "platformPath": "D:\\Xilinx\\final_final\\workspace\\top\\export\\top",
+          "sysConfig": "top",
+          "domain": "domain_ps7_cortexa9_0",
+          "system": "audio_system"
+        }
+      ],
+      "platformPath": "D:\\Xilinx\\final_final\\workspace\\top\\export\\top"
+    }
+  ],
+  "others": []
+}
